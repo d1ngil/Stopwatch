@@ -18,7 +18,6 @@ class Stopwatch(QWidget):
 
     def initUI(self):
         self.setWindowTitle("Stopwatch")
-        self.setWindowIcon(QIcon("IMG_1143.png"))
         self.setGeometry(600, 300, 700, 500)
         self.time_label.setStyleSheet("font-size: 100px;"
             "background-color: hsl(136, 100%, 61%);"
