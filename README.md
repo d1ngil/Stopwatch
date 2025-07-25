@@ -21,3 +21,8 @@ A simple stopwatch application built with PyQt5.
 3. Run the program with:
    ```bash
    python stopwatch.py
+
+## 📸 App View
+
+![Stopwatch Screenshot](./ss2.png)
+
